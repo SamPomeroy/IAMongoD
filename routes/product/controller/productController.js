@@ -1,4 +1,4 @@
-const User = require('../model/Product')
+const Product = require('../model/Product')
 
 async function getAllProducts(){
     try {
